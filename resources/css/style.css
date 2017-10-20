@@ -8,12 +8,15 @@ div.selection h1{
 }
 div.selection{
   margin-top: 20px;
-  color: white;
   display: block;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: cover;
   font-size: 18px;
+  color: white;
+}
+h4 a{
+  color: white;
 }
 h2{
   font-size: 32px;
@@ -30,6 +33,11 @@ div.Design{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 p.footer{
+  background-color: dimgray;
   text-align: left;
   font-size: 18px;
+  color: white;
+}
+p a{
+  color: white;
 }
